@@ -1,0 +1,4 @@
+BNC to eCom: 
+Transactional Data Table: "EDM_VIEWS_PRD"."DW_BIZOPS_VIEWS"."BNC_TO_ECOM_TRANS_DATA"
+
+Digital Experience Data Table: "EDM_VIEWS_PRD"."DW_BIZOPS_VIEWS"."BNC_TO_ECOM_DE_DATA"
