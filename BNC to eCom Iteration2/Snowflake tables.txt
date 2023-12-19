@@ -1,0 +1,8 @@
+BNC to eCom Iteration2:
+
+
+Latest 3 months Instore Customers Table: "EDM_VIEWS_PRD"."DW_BIZOPS_VIEWS"."L3M_INSTORE_CUSTOMERS_DATA"
+
+Latest 3 months Instore Customers with Probabilities: "EDM_VIEWS_PRD"."DW_BIZOPS_VIEWS"."L3M_INSTORE_CUSTOMERS_DATA_WP"
+
+
